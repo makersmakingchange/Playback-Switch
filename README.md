@@ -23,7 +23,7 @@ SUMMARY
 A brief summary of the project. What it does, who it is for, how much it costs.
  --->
 
-The Playback Switch is a press button switch similar to the MMC Interact switch that also plays a message up to 30 seconds long when the button is pressed.
+The Playback Switch is a press button switch similar to the MMC Interact switch that also plays a message up to 30 seconds long.
 
 The device is comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $8 (plus $8 for component shipping).
 
@@ -95,12 +95,12 @@ Source Location: https://github.com/makersmakingchange/Playback-Switch
 
 ## Attribution
 
-### Coontributors
+### Contributors
 Designers:
  - Brad Wellington
 
  Testers:
-  - tester 1
+  - Derrick Andrews
 
 ---
 
