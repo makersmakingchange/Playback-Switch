@@ -1,0 +1,47 @@
+title: Playback Switch
+description: "The Playback Switch is an assistive switch similar to the Interact Switch
+  that also plays a prerecorded message up to 30 seconds long when it is
+  pressed. "
+intended-use: This device is intended for users of assistive switches who would benefit from
+  or prefer additional audio feedback when using a switch.
+keywords:
+  - Switch
+  - Audio
+  - Playback
+  - Assistive Switch
+project-link: https://github.com/makersmakingchange/Playback-Switch
+image: https://github.com/makersmakingchange/Playback-Switch/Photos/Playback-Switch
+made: true
+made-independently: false
+license:
+  hardware: CERN-OHL-W-2.0
+  documentation: CC-BY-SA-4.0
+  software: GPL-3.0-only
+licensor:
+  name: Jake McIvor
+  affiliation: Neil Squire Society/Makers Making Change
+  email: jakem@neilsquire.ca
+okh-manifest-version: 1.0.0
+date-created: 2024-03-04
+date-updated: 2024-03-04
+manifest-author:
+  name: Brad Wellington
+  affiliation: "Neil Squire Society/Makers Making Change "
+  email: bradw@neilsquire.ca
+manifest-language: en-CA
+version: "1.0"
+development-stage: product
+documentation-home: https://github.com/makersmakingchange/Playback-Switch
+archive-download: https://github.com/makersmakingchange/Playback-Switch/archive/refs/heads/main.zip
+documentation-language: en-CA
+bom: https://github.com/makersmakingchange/Playback-Switch/Documentation/Playback_Switch_BOM
+tool-list: https://github.com/makersmakingchange/Playback-Switch/Documentation/Playback_Switch_Maker_Guide
+making-instructions:
+  - path: https://github.com/makersmakingchange/Playback-Switch/Documentation/Playback_Switch_Maker_Guide
+    title: Maker Guide
+operating-instructions:
+  - path: https://github.com/makersmakingchange/Playback-Switch/Documentation/Playback_Switch_User_Guide
+    title: User Guide
+maintenance-instructions:
+  - path: https://github.com/makersmakingchange/Playback-Switch/Documentation/Playback_Switch_User_Guide
+    title: User Guide
