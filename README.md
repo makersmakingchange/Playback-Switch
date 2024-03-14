@@ -23,7 +23,7 @@ SUMMARY
 A brief summary of the project. What it does, who it is for, how much it costs.
  --->
 
-The Playback Switch is a press button switch similar to the MMC Interact switch that also plays a message up to 30 seconds long.
+The Playback Switch is an assistive switch that also plays a prerecorded message up to 30 seconds long when the button is pressed. It has a diameter of 90mm and an activation force of roughly 250 grams. The switch is made entirely with commercial, off the shelf parts, with no 3D printing involved. It has a similar functionality to the BIGmack and LITTLEmack buttons. This device is intended for users of assistive switches who would benefit from or prefer additional audio feedback when using a switch.
 
 The device is comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $8 (plus $8 for component shipping).
 
@@ -31,7 +31,7 @@ The current version of the device (v1.0) has been built and user tested.
 
 <img src="Photos/Playback-Switch.jpg" width="500" alt="Picture of Playback Switch.">
 
-Makers Making Change Assistive Device Library Listing: https://www.makersmakingchange.com/s/product/Playback-Switch/<mmc-salesforce-id>
+Makers Making Change Assistive Device Library Listing: https://www.makersmakingchange.com/s/product/Playback-Switch/01tJR000003S43lYAC
 
 ## How to Obtain the Device
 ### 1. Do-it-Yourself (DIY) or Do-it-Together (DIT)
@@ -40,7 +40,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-You may also submit a build request through the [MMC Library Page](https://www.makersmakingchange.com/s/product/Playback-Switch/<mmc-salesforce-id>) to have a volunteer maker build the device. As the requestor, you are responsible for reimbursing the maker for the cost of materials and any shipping.
+You may also submit a build request through the [MMC Library Page](https://www.makersmakingchange.com/s/product/Playback-Switch/01tJR000003S43lYAC) to have a volunteer maker build the device. As the requestor, you are responsible for reimbursing the maker for the cost of materials and any shipping.
 
 ### 3. Build this device for someone else
 
