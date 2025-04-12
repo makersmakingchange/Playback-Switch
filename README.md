@@ -1,28 +1,9 @@
+<!--- Open Source Assistive Technology: GitHub Readme Template --->
 
-<!--- 
-Open Source Assistive Technology: GitHub Readme Template
- --->
+<!--- TITLE --->
+# Playback Switch
 
-<!---
-INSTRUCTIONS
-This is a markdown template for creating the README.md file in a GitHub repository. This file is rendered and displayed automatically when someone visits the repository.
-
-This document includes helper text that will not be displayed when rendered. Any text between the less-than sign + exclamation mark + three hyphen-minus (<!---) and matching three hyphen-minus + greater-than sign will not be displayed. This helper text can be deleted once the corresponding section is completed.
-
- --->
- 
- <!--- 
-TITLE
-Should match the name of the GitHub repository. Choose something descriptive rather than whimsical. 
- --->
- 
- # Playback Switch
-
-<!--- 
-SUMMARY
-A brief summary of the project. What it does, who it is for, how much it costs.
- --->
-
+<!--- SUMMARY --->
 The Playback Switch is an assistive switch that also plays a prerecorded message up to 30 seconds long when the button is pressed. It has a diameter of 90mm and an activation force of roughly 250 grams. The switch is made entirely with commercial, off the shelf parts, with no 3D printing involved. It has a similar functionality to the BIGmack and LITTLEmack buttons. This device is intended for users of assistive switches who would benefit from or prefer additional audio feedback when using a switch.
 
 The device is comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $8 (plus $8 for component shipping).
@@ -31,7 +12,8 @@ The current version of the device (v1.0) has been built and user tested.
 
 <img src="Photos/Playback-Switch.jpg" width="500" alt="Picture of Playback Switch.">
 
-Makers Making Change Assistive Device Library Listing: https://www.makersmakingchange.com/s/product/Playback-Switch/01tJR000003S43lYAC
+Makers Making Change Assistive Device Library Listing
+ - https://www.makersmakingchange.com/s/product/Playback-Switch/01tJR000003S43lYAC
 
 ## How to Obtain the Device
 ### 1. Do-it-Yourself (DIY) or Do-it-Together (DIT)
@@ -102,8 +84,9 @@ Designers:
  Testers:
   - Derrick Andrews
 
----
+----
 
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
@@ -122,3 +105,4 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
+<!-- ABOUT MMC END -->
