@@ -54,10 +54,10 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 | Document             | Version | Link |
 |----------------------|---------|------|
 | Design Rationale     | 1.0     | [Playback_Switch_Design_Rationale](/Documentation/Playback_Switch_Design_Rationale.pdf)     |
-| Maker Guide          | 1.0     | [Playback_Switch_Maker_Guide](/Documentation/Playback_Switch_Maker_Guide.pdf)     |
+| Maker Guide          | 1.1     | [Playback_Switch_Maker_Guide](/Documentation/Playback_Switch_Maker_Guide.pdf)     |
 | Bill of Materials    | 1.0     | [Playback_Switch_Bill_of_Materials](/Documentation/Playback_Switch_BOM.xlsx)     |
 | User Guide           | 1.0     | [Playback_Switch_User_Guide](/Documentation/Playback_Switch_User_Guide.pdf)    |
-| Changelog            | 1.0     | [Playback_Switch_Changelog](CHANGES.txt)     |
+| Changelog            | 1.1     | [Playback_Switch_Changelog](CHANGES.txt)     |
 
 
 
